@@ -177,7 +177,6 @@ makedown-get-htm/
 ├── download_both_variants.py # Side-by-side comparison helper script
 ├── test_laws.txt             # Sample batch list for testing
 ├── api.md                    # Official Rada OpenData API documentation
-├── recommend api using...txt # Official support guidance from Rada Computerized Systems Directorate
 ├── .download_cache.json      # Local index for instant zero-network caching (0.00s)
 └── README.md                 # Project documentation
 ```
