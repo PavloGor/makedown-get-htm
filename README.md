@@ -1,4 +1,4 @@
-# Rada HTM Downloader (Завантажувач законодавства України)
+# 📜 Rada HTM Downloader (Завантажувач законодавства України)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -32,7 +32,7 @@
 
 ---
 
-### Використання (UA)
+### 💻 Використання (UA)
 
 #### 1. Інтерактивне Windows-меню (`get_htm.cmd`)
 
@@ -168,7 +168,7 @@ flowchart TD
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 makedown-get-htm/
@@ -184,13 +184,13 @@ makedown-get-htm/
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and integrate this software into open-source or commercial applications.
 
 ---
 
-## Acknowledgments
+## 🤝 Acknowledgments
 
 - **Verkhovna Rada of Ukraine** and the **Open Data Portal** ([data.rada.gov.ua](https://data.rada.gov.ua)) for providing open access to Ukrainian legislative data.
 - The Computerized Systems Directorate of the Verkhovna Rada Secretariat for their guidance on API integration best practices.
